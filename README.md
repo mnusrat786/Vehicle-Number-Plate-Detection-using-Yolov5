@@ -2,7 +2,7 @@
 
 This project implements vehicle number plate detection using the YOLOv5 object detection framework.
 
-## 📷 Dataset
+## Dataset
 
 - The dataset was collected from an **IP camera feed**.
 - All images were manually annotated using **LabelImg** in YOLO format.
